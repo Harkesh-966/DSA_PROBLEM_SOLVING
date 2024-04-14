@@ -1,6 +1,8 @@
 const searchInsert = (nums,target) => {
-	console.log(nums,target)
-	
+	for (let index = 0; index < array.length; index++) {
+		const element = array[index];
+		
+	}
 }
 
 const nums = [1, 3, 5, 6]
